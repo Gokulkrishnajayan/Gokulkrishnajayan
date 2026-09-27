@@ -113,6 +113,31 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 </div>
 
 ---
+## ⚙️ GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Gokulkrishnajayan">
+  <img
+    height="180"
+    src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-stats.svg"
+    alt="Gokul Krishna Jayan GitHub Analytics"
+  />
+</a>
+
+  
+
+<a href="https://github.com/Gokulkrishnajayan">
+  <img
+    height="180"
+    src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
+    alt="Gokul Krishna Jayan Top Languages"
+  />
+</a>
+
+</div>
+
+---
 
 ## 💡 Beyond the Code
 
