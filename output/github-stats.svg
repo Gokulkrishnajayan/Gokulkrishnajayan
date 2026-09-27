@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+<rect width="760" height="300" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="758" height="298" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="28" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f0f6fc" text-anchor="start">GitHub Analytics</text>
+<text x="732" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="500" fill="#8b949e" text-anchor="end">2026</text>
+<text x="28" y="60" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Self-hosted from GitHub API • updated by GitHub Actions</text>
+<rect x="28" y="82" width="216" height="68" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="44" y="112" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#36BCF7" text-anchor="start">33</text>
+<text x="44" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">Contributions</text>
+<rect x="272" y="82" width="216" height="68" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="288" y="112" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#36BCF7" text-anchor="start">14</text>
+<text x="288" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">Commits</text>
+<rect x="516" y="82" width="216" height="68" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="532" y="112" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#36BCF7" text-anchor="start">0</text>
+<text x="532" y="133" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">Pull Requests</text>
+<rect x="28" y="170" width="216" height="68" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="44" y="200" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#36BCF7" text-anchor="start">0</text>
+<text x="44" y="221" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">Issues</text>
+<rect x="272" y="170" width="216" height="68" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="288" y="200" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#36BCF7" text-anchor="start">11</text>
+<text x="288" y="221" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">Repositories</text>
+<rect x="516" y="170" width="216" height="68" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="532" y="200" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#36BCF7" text-anchor="start">28</text>
+<text x="532" y="221" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">Followers</text>
+<text x="28" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">@Gokulkrishnajayan</text>
+<text x="732" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">Generated in my repository</text>
+</svg>

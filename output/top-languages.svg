@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+<rect width="760" height="300" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="758" height="298" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="28" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f0f6fc" text-anchor="start">Top Languages</text>
+<text x="28" y="60" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">Across my owned, non-fork repositories</text>
+<rect x="28.00" y="82" width="390.47" height="12" fill="#e34c26"/>
+<rect x="418.47" y="82" width="175.38" height="12" fill="#563d7c"/>
+<rect x="593.85" y="82" width="41.60" height="12" fill="#4F5D95"/>
+<rect x="635.45" y="82" width="29.89" height="12" fill="#f1e05a"/>
+<rect x="665.33" y="82" width="28.34" height="12" fill="#36BCF7"/>
+<rect x="693.67" y="82" width="24.16" height="12" fill="#c6538c"/>
+<rect x="717.83" y="82" width="11.19" height="12" fill="#3572A5"/>
+<rect x="729.02" y="82" width="2.98" height="12" fill="#555555"/>
+<circle cx="34" cy="121" r="5" fill="#e34c26"/>
+<text x="48" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">HTML</text>
+<text x="348" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">55.5%</text>
+<circle cx="386" cy="121" r="5" fill="#563d7c"/>
+<text x="400" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">CSS</text>
+<text x="700" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">24.9%</text>
+<circle cx="34" cy="159" r="5" fill="#4F5D95"/>
+<text x="48" y="163" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">PHP</text>
+<text x="348" y="163" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">5.9%</text>
+<circle cx="386" cy="159" r="5" fill="#f1e05a"/>
+<text x="400" y="163" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">JavaScript</text>
+<text x="700" y="163" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">4.2%</text>
+<circle cx="34" cy="197" r="5" fill="#36BCF7"/>
+<text x="48" y="201" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">EJS</text>
+<text x="348" y="201" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">4.0%</text>
+<circle cx="386" cy="197" r="5" fill="#c6538c"/>
+<text x="400" y="201" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">SCSS</text>
+<text x="700" y="201" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">3.4%</text>
+<circle cx="34" cy="235" r="5" fill="#3572A5"/>
+<text x="48" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">Python</text>
+<text x="348" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">1.6%</text>
+<circle cx="386" cy="235" r="5" fill="#555555"/>
+<text x="400" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#f0f6fc" text-anchor="start">C</text>
+<text x="700" y="239" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="end">0.4%</text>
+<text x="28" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="#8b949e" text-anchor="start">@Gokulkrishnajayan</text>
+<text x="732" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">Generated in my repository</text>
+</svg>
