@@ -4,11 +4,12 @@
 
 ### `Full Stack Developer` · `Problem Solver` · `Tech Explorer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+things+with+JavaScript+%26+Python;Turning+ideas+into+working+projects;Exploring+Web+Development+%26+Automation;Always+learning+something+new" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+things+with+JavaScript+%26+Python;Turning+ideas+into+working+projects;Exploring+Web+Development+%26+Automation;Always+learning+something+new" alt="Typing animation" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Gokulkrishnajayan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
 ---
@@ -84,21 +85,21 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <a href="https://github.com/Gokulkrishnajayan">
 
-<img height="180" src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-snake.svg">
 </picture>
+
+<br><br>
+
+`Consistency > Perfection`
 
 </div>
 
@@ -108,11 +109,9 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=BUILD+%E2%86%92+EXPERIMENT+%E2%86%92+BREAK;DEBUG+%E2%86%92+LEARN+%E2%86%92+REPEAT;I+don't+just+want+to+use+technology...;I+want+to+understand+how+things+work." alt="Beyond the code animation" />
+> **I don't just want to use technology — I want to understand how things work.**
 
-<br>
-
-`Curiosity drives what I build — pulling things apart, understanding how they work, and rebuilding them better.`
+`Curiosity → Experiment → Build → Break → Debug → Understand`
 
 </div>
 
@@ -121,6 +120,7 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 ## 🤝 Let's Connect
 
 <div align="center">
+
 <a href="https://github.com/Gokulkrishnajayan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -128,10 +128,11 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 <a href="https://www.linkedin.com/in/gokul-krishna-jayan/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  
+
 <br><br>
 
 **Thanks for visiting my profile! 🚀**
 
 `Keep building. Keep learning. Keep exploring.`
+
 </div>
