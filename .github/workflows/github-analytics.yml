@@ -72,4 +72,3 @@ jobs:
           git commit -m "chore: update GitHub analytics"
 
           git push origin output
-```
