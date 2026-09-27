@@ -83,7 +83,7 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td align="center" width="33%">
