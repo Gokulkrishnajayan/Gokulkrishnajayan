@@ -83,9 +83,10 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <div align="center">
 
+<table>
+<tr>
 
-
-
+<td align="center" width="33%">
 
 <img
 src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-stats.svg"
@@ -93,17 +94,9 @@ width="100%"
 alt="GitHub Analytics"
 />
 
+</td>
 
-
-<img
-src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
-width="100%"
-alt="Top Languages"
-/>
-
-
-
-
+<td align="center" width="33%">
 
 <img
 src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=tokyonight&hide_border=true"
@@ -111,8 +104,20 @@ width="100%"
 alt="GitHub Streak"
 />
 
+</td>
 
+<td align="center" width="33%">
 
+<img
+src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
+width="100%"
+alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
