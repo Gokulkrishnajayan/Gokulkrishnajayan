@@ -89,7 +89,7 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 </a>
 
-<br><br>
+<br>
 
 <picture>
   <source
@@ -106,7 +106,7 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
   />
 </picture>
 
-<br><br>
+<br>
 
 `Consistency > Perfection`
 
@@ -118,9 +118,11 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <div align="center">
 
-> **I don't just want to use technology — I want to understand how things work.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=BUILD+%E2%86%92+EXPERIMENT+%E2%86%92+BREAK;DEBUG+%E2%86%92+LEARN+%E2%86%92+REPEAT;I+don't+just+want+to+use+technology...;I+want+to+understand+how+things+work." alt="Beyond the code animation" />
 
-`Curiosity → Experiment → Build → Break → Debug → Understand`
+<br>
+
+`Curiosity drives what I build — pulling things apart, understanding how they work, and rebuilding them better.`
 
 </div>
 
