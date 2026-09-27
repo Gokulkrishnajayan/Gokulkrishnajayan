@@ -83,11 +83,36 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <div align="center">
 
-<a href="https://github.com/Gokulkrishnajayan">
 
-<img height="180" src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-</a>
+
+
+<img
+src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-stats.svg"
+width="100%"
+alt="GitHub Analytics"
+/>
+
+
+
+<img
+src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
+width="100%"
+alt="Top Languages"
+/>
+
+
+
+
+
+<img
+src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=tokyonight&hide_border=true"
+width="100%"
+alt="GitHub Streak"
+/>
+
+
+
 
 <br>
 
@@ -101,39 +126,15 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
     srcset="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-snake.svg"
+    width="100%"
+    alt="GitHub contribution snake"
   />
 </picture>
 
 <br>
 
 `Consistency > Perfection`
-
-</div>
-
----
-## ⚙️ GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Gokulkrishnajayan">
-  <img
-    height="180"
-    src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-stats.svg"
-    alt="Gokul Krishna Jayan GitHub Analytics"
-  />
-</a>
-
-  
-
-<a href="https://github.com/Gokulkrishnajayan">
-  <img
-    height="180"
-    src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
-    alt="Gokul Krishna Jayan Top Languages"
-  />
-</a>
 
 </div>
 
