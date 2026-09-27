@@ -37,25 +37,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          echo "Preparing output branch..."
+          echo "Preparing analytics files..."
 
-          # Save generated analytics files temporarily
-          mkdir -p /tmp/github-analytics
-
-          cp output/github-stats.svg /tmp/github-analytics/github-stats.svg
-          cp output/top-languages.svg /tmp/github-analytics/top-languages.svg
-
-          # Clone the existing output branch
+          # Clone the existing output branch.
+          # This preserves the contribution snake files.
           git clone \
             --branch output \
             --single-branch \
             "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
             /tmp/output-branch
 
-          # Copy the new analytics files into the ROOT
-          # of the output branch
-          cp /tmp/github-analytics/github-stats.svg /tmp/output-branch/github-stats.svg
-          cp /tmp/github-analytics/top-languages.svg /tmp/output-branch/top-languages.svg
+          # Copy newly generated analytics files
+          # into the ROOT of the output branch.
+          cp /tmp/github-stats.svg \
+            /tmp/output-branch/github-stats.svg
+
+          cp /tmp/top-languages.svg \
+            /tmp/output-branch/top-languages.svg
 
           cd /tmp/output-branch
 
