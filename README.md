@@ -61,7 +61,8 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 ---
 
 ## 🚀 Featured Projects
-
+<div align="center">
+  
 | Project                                                                          | What I built                         | Stack                         |
 | :------------------------------------------------------------------------------- | :----------------------------------- | :---------------------------- |
 | 🛰️ **[AeroSense](https://github.com/Gokulkrishnajayan/Aerosense-raspberry-pi)** | Gesture-controlled drone system      | `Python` `OpenCV` `MediaPipe` |
@@ -70,6 +71,8 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 | 🎓 **Online Classroom** 🔒                                                       | Real-time collaborative canvas       | `JavaScript` `WebRTC`         |
 | 🍛 **[EasyEats](https://github.com/Gokulkrishnajayan/EasyEats)**                 | Food ordering web application        | `JavaScript`                  |
 | 🍮 **[SweetStream](https://github.com/Gokulkrishnajayan/SweetStream)**           | Local payasam ordering platform      | `JavaScript`                  |
+
+</div>
 
 <div align="center">
 
