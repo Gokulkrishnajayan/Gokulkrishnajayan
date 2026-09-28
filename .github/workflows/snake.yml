@@ -2,27 +2,58 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:        # lets you trigger it manually too
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Gokulkrishnajayan
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+            /tmp/snake/github-snake.svg
+            /tmp/snake/github-snake-dark.svg?palette=github-dark
+
+      - name: Update output branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone \
+            --branch output \
+            --single-branch \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            /tmp/output-branch
+
+          cp /tmp/snake/github-snake.svg \
+            /tmp/output-branch/github-snake.svg
+
+          cp /tmp/snake/github-snake-dark.svg \
+            /tmp/output-branch/github-snake-dark.svg
+
+          cd /tmp/output-branch
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-snake.svg github-snake-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "No snake changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update contribution snake"
+
+          git push origin output
