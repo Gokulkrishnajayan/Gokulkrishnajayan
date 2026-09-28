@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: Gokulkrishnajayan
           outputs: |
-            /tmp/snake/github-snake.svg
-            /tmp/snake/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Update output branch
         env:
@@ -36,10 +36,10 @@ jobs:
             "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
             /tmp/output-branch
 
-          cp /tmp/snake/github-snake.svg \
+          cp dist/github-snake.svg \
             /tmp/output-branch/github-snake.svg
 
-          cp /tmp/snake/github-snake-dark.svg \
+          cp dist/github-snake-dark.svg \
             /tmp/output-branch/github-snake-dark.svg
 
           cd /tmp/output-branch
