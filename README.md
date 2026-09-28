@@ -83,43 +83,29 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td align="center" width="33%">
+<dl>
+<dd align="center">
 
 <img
 src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-stats.svg"
-width="100%"
+width="32%"
 alt="GitHub Analytics"
 />
-
-</td>
-
-<td align="center" width="33%">
-
+&nbsp;
 <img
-src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=tokyonight&hide_border=true"
-width="100%"
+src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=github-dark-blue&border_radius=18&card_width=430&card_height=205&border=5B59595B"
+width="32%"
 alt="GitHub Streak"
 />
-
-</td>
-
-<td align="center" width="33%">
-
+&nbsp;
 <img
 src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
-width="100%"
+width="32%"
 alt="Top Languages"
 />
 
-</td>
-
-</tr>
-</table>
-
-<br>
+</dd>
+</dl>
 
 <picture>
   <source
@@ -136,7 +122,6 @@ alt="Top Languages"
     alt="GitHub contribution snake"
   />
 </picture>
-
 <br>
 
 `Consistency > Perfection`
@@ -144,6 +129,7 @@ alt="Top Languages"
 </div>
 
 ---
+
 
 ## 💡 Beyond the Code
 
