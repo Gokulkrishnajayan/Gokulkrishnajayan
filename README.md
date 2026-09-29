@@ -112,6 +112,9 @@ src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/outpu
 width="48.5%"
 alt="Top Languages"
 />
+
+<br>
+
 <img
 src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=github-dark-blue&hide_border=true&border_radius=18&card_width=500&card_height=170&border=5B59595B"
  width="80%" height="40%"
