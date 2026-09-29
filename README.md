@@ -102,20 +102,20 @@ I enjoy turning ideas into practical applications — from **full-stack web plat
 
 <img
 src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/github-stats.svg"
-width="32%"
+width="48.5%"
 alt="GitHub Analytics"
 />
 &nbsp;
-<img
-src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=github-dark-blue&border_radius=18&card_width=430&card_height=205&border=5B59595B"
-width="32%"
-alt="GitHub Streak"
-/>
 &nbsp;
 <img
 src="https://raw.githubusercontent.com/Gokulkrishnajayan/Gokulkrishnajayan/output/top-languages.svg"
-width="32%"
+width="48.5%"
 alt="Top Languages"
+/>
+<img
+src="https://streak-stats.demolab.com?user=Gokulkrishnajayan&theme=github-dark-blue&hide_border=true&border_radius=18&card_width=500&card_height=170&border=5B59595B"
+ width="80%" height="40%"
+alt="GitHub Streak"
 />
 
 </dd>
